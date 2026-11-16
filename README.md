@@ -11,7 +11,7 @@
 Trabalho com **dados**, transformando informações brutas em insights que ajudam na tomada de decisão. Tenho experiência em análise, modelagem, automação e visualização de dados, unindo programação, bancos de dados e ferramentas de BI.
 
 - 🔭 Atualmente focado em projetos de análise e engenharia de dados
-- 🌱 Estudando AWS e Databricks
+- 🌱 Estudando AWS e dbt
 - 💬 Fale comigo sobre Python, SQL, dashboards ou automação de dados
 
 ## 🛠️ Tech Stack
