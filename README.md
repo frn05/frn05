@@ -39,7 +39,7 @@ Trabalho com **dados**, transformando informações brutas em insights que ajuda
 | **[Análise Financeira — Itaú Unibanco](https://github.com/frn05/analise-financeira-itau)** | Pipeline de dados de ponta a ponta: ingestão de APIs (Yahoo Finance e Banco Central), carga idempotente no PostgreSQL, arquitetura **Medalhão (Bronze → Silver → Gold)** e dashboard em Power BI. Credenciais via variáveis de ambiente. | Python · SQL · PostgreSQL · SQLAlchemy · Power BI |
 | **[Previsão de Cancelamento de Vendas](https://github.com/frn05/previsao-cancelamento-vendas)** | Machine Learning com **Decision Tree, Random Forest e XGBoost** comparados no mesmo conjunto de teste, usando pipelines do scikit-learn (sem vazamento de dados), tratamento de desbalanceamento e métricas de classificação (dados simulados). | Python · scikit-learn · XGBoost · pandas |
 | **[Assistente de Investimentos com RPA e IA Generativa](https://github.com/frn05/DIO-Assistente-de-Investimentos)** | Automação (RPA) que extrai clientes de uma página com Python, envia para um workflow no **n8n** via webhook, cruza o perfil com uma base CSV de opções e gera mensagens personalizadas com IA generativa (Gemini). Projeto educacional com dados fictícios. | Python · n8n · BeautifulSoup · Gemini |
-| **[Agente Financeiro](https://github.com/frn05/agente-financeiro/tree/main/lab-agente-financeiro)** | Laboratório de agente financeiro. | — |
+| **[Agente Financeiro](https://github.com/frn05/agente-financeiro/tree/main/lab-agente-financeiro)** | Agente conversacional de IA para uma plataforma de investimentos: classifica a intenção do cliente e responde de forma personalizada, considerando perfil de suitability, carteira e histórico de atendimento, com **RAG** sobre uma base de conhecimento. Inclui documentação de arquitetura, engenharia de prompts, métricas de avaliação e roteiro de pitch. Dados mockados (fictícios). | Python · OpenAI · LangChain · FAISS |
 
 <!-- Para adicionar mais projetos, copie uma linha da tabela acima e troque nome, link, descrição e stack. -->
 
@@ -61,4 +61,3 @@ Trabalho com **dados**, transformando informações brutas em insights que ajuda
 ![Profile Views](https://komarev.com/ghpvc/?username=frn05&color=2c5364&style=flat)
 
 </div>
-
